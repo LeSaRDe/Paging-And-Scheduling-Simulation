@@ -1,4 +1,4 @@
-# Paging-And-Scheduling-Simulation
+# Paging and Scheduling Simulation
 CPS 321 Operating System and Architectures
 
 Simualte page replacement and process scheduling algorithms
